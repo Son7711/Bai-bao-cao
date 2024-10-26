@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40DA52-AF04-48E1-81DA-CDBF3163C08F}|Quanlyview\\Quanlyview.csproj|d:\\h\u1ECDc t\u1EADp-hk1-n\u0103m 3\\c#\\b\u00FA\\quanlyview bij hu r\\quanlyview\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40DA52-AF04-48E1-81DA-CDBF3163C08F}|Quanlyview\\Quanlyview.csproj|solutionrelative:quanlyview\\quanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40DA52-AF04-48E1-81DA-CDBF3163C08F}|Quanlyview\\Quanlyview.csproj|d:\\h\u1ECDc t\u1EADp-hk1-n\u0103m 3\\c#\\b\u00FA\\quanlyview bij hu r\\quanlyview\\quanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40DA52-AF04-48E1-81DA-CDBF3163C08F}|Quanlyview\\Quanlyview.csproj|solutionrelative:quanlyview\\quanly.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C40DA52-AF04-48E1-81DA-CDBF3163C08F}|Quanlyview\\Quanlyview.csproj|d:\\h\u1ECDc t\u1EADp-hk1-n\u0103m 3\\c#\\b\u00FA\\quanlyview bij hu r\\quanlyview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C40DA52-AF04-48E1-81DA-CDBF3163C08F}|Quanlyview\\Quanlyview.csproj|solutionrelative:quanlyview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quanly.Designer.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\Quanlyview\\Quanly.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlyview\\Quanly.Designer.cs",
+              "ToolTip": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\Quanlyview\\Quanly.Designer.cs",
+              "RelativeToolTip": "Quanlyview\\Quanly.Designer.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAASwPwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:50:31.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\Quanlyview\\Program.cs",
+              "RelativeDocumentMoniker": "Quanlyview\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\Quanlyview\\Program.cs",
+              "RelativeToolTip": "Quanlyview\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:50:24.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quanly.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\Quanlyview\\Quanly.cs",
+              "RelativeDocumentMoniker": "Quanlyview\\Quanly.cs",
+              "ToolTip": "D:\\H\u1ECDc t\u1EADp-hk1-n\u0103m 3\\C#\\b\u00FA\\Quanlyview bij hu r\\Quanlyview\\Quanly.cs",
+              "RelativeToolTip": "Quanlyview\\Quanly.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:48:32.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
